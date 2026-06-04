@@ -1,8 +1,11 @@
 # CNN Cats vs Dogs — From Scratch vs Transfer Learning
 
 **Auteur :** Yannick BAMBA
+
 **Classe :** Master 1 IA
-**Cours :** Deep Learning - DIT (Dakar Institute of Technology)  
+
+**Cours :** Deep Learning - DIT (Dakar Institute of Technology) 
+
 **Période :** Juin 2026
 
 ---
