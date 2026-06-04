@@ -175,7 +175,7 @@ commet ~20 erreurs réparties en 3 catégories :
 ## Structure du dépôt
 
 ```
-cnn-catsdogs-[NomPrenom]/
+cnn-catsdogs-YannickBAMBA /
 ├── notebook.ipynb        # Notebook principal
 ├── requirements.txt      # Dépendances Python
 ├── .gitignore            # Exclusions Git
